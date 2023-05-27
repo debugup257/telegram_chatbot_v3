@@ -1,0 +1,29 @@
+,serialno,id,question,answer,date,role,score
+0,73,DDGPR7654J,"How do you handle large, high-dimensional datasets?","to handle large, high-dimensional datasets need to",2023-01-27 12:26:34.560534,data,0.042504398556993526
+1,74,DDGPR7654J,Can you explain how an artificial neural network works?,An artificial neural network works on neurons which acts like human brain,2023-01-27 12:26:34.560534,data,0.050313115555225794
+2,75,DDGPR7654J,Can you explain how a support vector machine (SVM) algorithm works?,support vector machine (SVM) algorithm works on support vectors,2023-01-27 12:26:34.560534,data,0.041371579424035465
+3,76,DDGPR7654J,How do you handle multicollinearity in your data?,to handle multicollinearity in your data is to,2023-01-27 12:26:34.560534,data,0.0704292310867711
+4,77,KJHPY7688K,How do you implement serialization in Java?,implement serialization in Java,2023-01-27 12:40:30.968798,Lead Developer (Java),0.0981189764054412
+5,78,KJHPY7688K,How do you optimize the performance of a Java application?,to optimize the performance of a Java application is to,2023-01-27 12:40:30.968798,Lead Developer (Java),0.09815371963907367
+6,79,KJHPY7688K,Can you tell us about your experience with Java development?,my experience with Java development is,2023-01-27 12:40:30.968798,Lead Developer (Java),0.053892382243490376
+7,80,KJHPY7688K,How do you handle exceptions in Java?,to handle exceptions in Java,2023-01-27 12:40:30.968798,Lead Developer (Java),0.10023318073600689
+8,81,KJLPT7643G,Can you describe a project you worked on that used multithreading in Java?,project you worked on that used multithreading in Java is,2023-01-27 12:40:30.968798,Software Developer Trainee (Java),0.12193280073843507
+9,82,KJLPT7643G,How do you implement serialization in Java?,to implement serialization in Java,2023-01-27 12:40:30.968798,Software Developer Trainee (Java),0.0981189764054412
+10,83,KJLPT7643G,Can you explain the difference between an interface and an abstract class in Java?,the difference between an interface and an abstract class in Java is,2023-01-27 12:40:30.968798,Software Developer Trainee (Java),0.1022419025973433
+11,84,KJLPT7643G,Can you explain the difference between a HashMap and a Hashtable in Java?,he difference between a HashMap and a Hashtable in Java is,2023-01-27 12:40:30.968798,Software Developer Trainee (Java),0.10183414939266813
+12,85,NHMPG7654K,How do you handle multicollinearity in your data?,to handle multicollinearity in your data is,2023-01-27 12:40:30.968798,data,0.0704292310867711
+13,86,NHMPG7654K,Can you describe how you would go about optimizing a slow running query in a database?,to optimizing a slow running query in a database,2023-01-27 12:40:30.968798,data,0.0411311809000619
+14,87,NHMPG7654K,Can you explain how a decision tree is constructed?,A decision tree is constructed is,2023-01-27 12:40:30.968798,data,0.036349710540886364
+15,88,NHMPG7654K,"How do you handle large, high-dimensional datasets?","to handle large, high-dimensional datasets",2023-01-27 12:40:30.968798,data,0.042504398556993526
+16,89,2005945977639,Can you describe how you would build a recommendation engine?,yes so its build using,2023-02-23 15:55:16.338243,Lead Data Scientist,0.011600777830719793
+17,90,2005945977639,Can you explain how a Gaussian mixture model works?,its using probablity density function,2023-02-23 15:55:16.338243,Lead Data Scientist,0.0
+18,91,2005945977639,Can you explain how an artificial neural network works?,ann works similar to brain,2023-02-23 15:55:16.338243,Lead Data Scientist,0.03804399973067693
+19,92,2005945977639,Can you explain how a support vector machine (SVM) algorithm works?,svm one of the ml algo,2023-02-23 15:55:16.338243,Lead Data Scientist,0.06903904254237629
+20,93,6005876268585,Can you explain the difference between supervised and unsupervised learning?,no i dont know,2023-02-23 16:08:55.182284,Data Science Trainee,0.0
+21,94,6005876268585,Can you describe a project you worked on that involved natural language processing?,yes i have,2023-02-23 16:08:55.182284,Data Science Trainee,0.034007973407873274
+22,95,6005876268585,How do you evaluate the performance of a machine learning model?,ucbwdlcvwkcv,2023-02-23 16:08:55.182284,Data Science Trainee,0.0
+23,96,6005876268585,How do you handle missing data in a dataset?,cwvvcewevvvhj,2023-02-23 16:08:55.182284,Data Science Trainee,0.0
+24,97,7005876268585,How do you implement security in a Java application?,xxxx,2023-03-13 13:51:34.834903,Software Developer Trainee (Java),0.0
+25,98,7005876268585,How do you optimize the performance of a Java application?,optimize,2023-03-13 13:51:34.834903,Software Developer Trainee (Java),0.013030085427466207
+26,99,7005876268585,How do you implement serialization in Java?,haha,2023-03-13 13:51:34.834903,Software Developer Trainee (Java),0.0
+27,100,7005876268585,Can you describe a project you worked on that involved working with web services in Java?,yes,2023-03-13 13:51:34.834903,Software Developer Trainee (Java),0.0
